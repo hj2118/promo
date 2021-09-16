@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+  background: #222;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 0px;
+  margin: 0px;
+  /*
+  there is padding so we need to set these to 0 not to have any gap around the picture!!!
+  */
+}
+
+h1 {
+  color: #ff0072;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 64px;
+}
+
+#specialUnderline {
+  text-decoration: underline;
+}
+
+.special {
+  font-weight: bold;
+}
+
+p {
+  padding: 32px;
+  margin: 32px;
+  display: inline;
+}
+
+.heroImage {
+  width: 100%;
+}
